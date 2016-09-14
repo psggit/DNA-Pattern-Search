@@ -1,4 +1,4 @@
-f=open('C:/Users/Admin/Documents/python/pattern.txt','r+')
+f=open('C:/Users/user/Desktop/DNA Search/pattern.txt','r+')
 #print(f.readline())
 a=[];
 b=[];
@@ -45,7 +45,7 @@ p4=shift(b,total);
 #print(pat[1])
 
 #compressing text
-f1=open('C:/Users/Admin/Documents/python/dna.txt','r+')
+f1=open('C:/Users/user/Desktop/DNA Search/dna.txt','r+')
 a1=[];
 b1=[];
 a1=f1.readline().upper();
